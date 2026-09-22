@@ -905,21 +905,6 @@
     "link": ""
   },
   {
-    "ano": 2016,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 0,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "",
-    "link": ""
-  },
-  {
     "ano": 2015,
     "geral": false,
     "ramo": "Geral",
@@ -1303,21 +1288,6 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 3444,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "",
-    "link": ""
-  },
-  {
-    "ano": 1989,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 0,
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
