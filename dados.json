@@ -200,152 +200,6 @@
     ]
   },
   {
-    "id": "brasil-2024-geral",
-    "ano": 2024,
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "ramo": "Geral",
-    "cooperativas": 4693,
-    "cooperados": 23400000,
-    "empregos": 550000,
-    "valor_economico": null,
-    "ref_id": "",
-    "ref_tipo": "",
-    "tags": [
-      "censo",
-      "brasil",
-      "consolidado",
-      "aula-01"
-    ],
-    "fonte": "Anuário OCB 2024",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-    "links": [
-      {
-        "texto": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br"
-      }
-    ]
-  },
-  {
-    "id": "brasil-2024-credito",
-    "ano": 2024,
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "ramo": "Crédito",
-    "cooperativas": 710,
-    "cooperados": 17800000,
-    "empregos": 115000,
-    "valor_economico": null,
-    "ref_id": "theodor-amstad",
-    "ref_tipo": "personalidade",
-    "tags": [
-      "crédito",
-      "sicoob",
-      "sicredi",
-      "inclusao",
-      "aula-02"
-    ],
-    "fonte": "Banco Central do Brasil",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-    "links": [
-      {
-        "texto": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br"
-      }
-    ]
-  },
-  {
-    "id": "brasil-2024-agropecuario",
-    "ano": 2024,
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "ramo": "Agropecuário",
-    "cooperativas": 1180,
-    "cooperados": 1100000,
-    "empregos": 260000,
-    "valor_economico": null,
-    "ref_id": "",
-    "ref_tipo": "",
-    "tags": [
-      "agro",
-      "cooperativismo rural",
-      "exportacao",
-      "aula-03"
-    ],
-    "fonte": "Anuário OCB 2024",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-    "links": [
-      {
-        "texto": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br"
-      }
-    ]
-  },
-  {
-    "id": "brasil-minasgerais-2024-geral",
-    "ano": 2024,
-    "origem": "Nacional",
-    "nivel": "Estadual",
-    "pais": "Brasil",
-    "estado": "Minas Gerais",
-    "cidade": "",
-    "ramo": "Geral",
-    "cooperativas": 780,
-    "cooperados": 3600000,
-    "empregos": 62000,
-    "valor_economico": null,
-    "ref_id": "maria-araujo",
-    "ref_tipo": "personalidade",
-    "tags": [
-      "minas gerais",
-      "ocemg",
-      "regional",
-      "aula-04"
-    ],
-    "fonte": "Anuário Ocemg 2024",
-    "link": "",
-    "links": []
-  },
-  {
-    "id": "brasil-minasgerais-contagem-2024-transporte",
-    "ano": 2024,
-    "origem": "Nacional",
-    "nivel": "Municipal",
-    "pais": "Brasil",
-    "estado": "Minas Gerais",
-    "cidade": "Contagem",
-    "ramo": "Transporte",
-    "cooperativas": 6,
-    "cooperados": 1450,
-    "empregos": 180,
-    "valor_economico": null,
-    "ref_id": "",
-    "ref_tipo": "",
-    "tags": [
-      "transporte",
-      "contagem",
-      "municipal",
-      "mobilidade"
-    ],
-    "fonte": "Sindicato Local / Ocemg",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-    "links": [
-      {
-        "texto": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br"
-      }
-    ]
-  },
-  {
     "id": "brasil-2024-agropecuario",
     "ano": 2024,
     "origem": "Nacional",
@@ -544,60 +398,6 @@
         "url": "https://somoscooperativismo.coop.br/anuariocoop"
       }
     ]
-  },
-  {
-    "id": "brasil-2023-geral",
-    "ano": 2023,
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "ramo": "Geral",
-    "cooperativas": 4630,
-    "cooperados": 20500000,
-    "empregos": 524000,
-    "valor_economico": null,
-    "ref_id": "",
-    "ref_tipo": "",
-    "tags": [
-      "serie-historica",
-      "brasil",
-      "consolidado"
-    ],
-    "fonte": "Anuário OCB 2023",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-    "links": [
-      {
-        "texto": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/09/22/ator-frances-arnaud-denis-morre-por-eutanasia-na-belgica.ghtmlwww.com.br"
-      }
-    ]
-  },
-  {
-    "id": "alemanha-2023-geral",
-    "ano": 2023,
-    "origem": "Internacional",
-    "nivel": "Nacional",
-    "pais": "Alemanha",
-    "estado": "",
-    "cidade": "",
-    "ramo": "Geral",
-    "cooperativas": 5050,
-    "cooperados": 22500000,
-    "empregos": 920000,
-    "valor_economico": null,
-    "ref_id": "friedrich-raiffeisen",
-    "ref_tipo": "personalidade",
-    "tags": [
-      "alemanha",
-      "raiffeisen",
-      "dgv",
-      "europa"
-    ],
-    "fonte": "Relatório DGV",
-    "link": "",
-    "links": []
   },
   {
     "id": "brasil-2023-agropecuario",
@@ -1412,9 +1212,14 @@
     "cooperados": 992111,
     "empregos": 207201,
     "valor_economico": null,
-    "ref_id": "",
+    "ref_id": "theodor-amstad",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "censo",
+      "brasil",
+      "consolidado",
+      "aula-01"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1439,7 +1244,11 @@
     "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "serie-historica",
+      "brasil",
+      "consolidado"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1464,7 +1273,13 @@
     "valor_economico": null,
     "ref_id": "maria-araujo",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "crédito",
+      "sicoob",
+      "sicredi",
+      "inclusao",
+      "aula-02"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1489,7 +1304,12 @@
     "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "agro",
+      "cooperativismo rural",
+      "exportacao",
+      "aula-03"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1512,9 +1332,14 @@
     "cooperados": 275915,
     "empregos": 108189,
     "valor_economico": null,
-    "ref_id": "",
+    "ref_id": "friedrich-raiffeisen",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "minas gerais",
+      "ocemg",
+      "regional",
+      "aula-04"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1539,7 +1364,12 @@
     "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "transporte",
+      "contagem",
+      "municipal",
+      "mobilidade"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
@@ -1564,7 +1394,12 @@
     "valor_economico": null,
     "ref_id": "theodor-amstad",
     "ref_tipo": "",
-    "tags": [],
+    "tags": [
+      "alemanha",
+      "raiffeisen",
+      "dgv",
+      "europa"
+    ],
     "fonte": "Anuário OCB 2026",
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "links": [
