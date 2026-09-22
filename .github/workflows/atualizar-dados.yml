@@ -2,7 +2,7 @@ name: Atualizar dados da planilha
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # todo dia às 6h de Brasília
+    - cron: "0 9 * * *" # todo dia às 6h de Brasília
   workflow_dispatch:
 
 permissions:
