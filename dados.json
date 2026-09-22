@@ -1,6 +1,206 @@
 [
   {
-    "id": "br-2024-geral",
+    "id": "brasil-2025-agropecuario",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1254,
+    "cooperados": 1132303,
+    "empregos": 277226,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-consumo",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 191,
+    "cooperados": 2842302,
+    "empregos": 15798,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-credito",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 682,
+    "cooperados": 22956981,
+    "empregos": 134395,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-infraestrutura",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 247,
+    "cooperados": 1476472,
+    "empregos": 7110,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-saude",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 695,
+    "cooperados": 304329,
+    "empregos": 162285,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-trabalhoebensdeconsumo",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 601,
+    "cooperados": 188451,
+    "empregos": 11184,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-transporte",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 730,
+    "cooperados": 128649,
+    "empregos": 5377,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2025-geral",
+    "ano": 2025,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4400,
+    "cooperados": 29029487,
+    "empregos": 613375,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-geral",
     "ano": 2024,
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -11,7 +211,7 @@
     "cooperativas": 4693,
     "cooperados": 23400000,
     "empregos": 550000,
-    "valor_economico": "R$ 780 bi",
+    "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
     "tags": [
@@ -30,7 +230,7 @@
     ]
   },
   {
-    "id": "br-2024-cred",
+    "id": "brasil-2024-credito",
     "ano": 2024,
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -41,7 +241,7 @@
     "cooperativas": 710,
     "cooperados": 17800000,
     "empregos": 115000,
-    "valor_economico": "R$ 900 bi ativos",
+    "valor_economico": null,
     "ref_id": "theodor-amstad",
     "ref_tipo": "personalidade",
     "tags": [
@@ -61,7 +261,7 @@
     ]
   },
   {
-    "id": "br-2024-agro",
+    "id": "brasil-2024-agropecuario",
     "ano": 2024,
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -72,7 +272,7 @@
     "cooperativas": 1180,
     "cooperados": 1100000,
     "empregos": 260000,
-    "valor_economico": "R$ 420 bi",
+    "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
     "tags": [
@@ -91,7 +291,7 @@
     ]
   },
   {
-    "id": "br-mg-2024-geral",
+    "id": "brasil-minasgerais-2024-geral",
     "ano": 2024,
     "origem": "Nacional",
     "nivel": "Estadual",
@@ -102,7 +302,7 @@
     "cooperativas": 780,
     "cooperados": 3600000,
     "empregos": 62000,
-    "valor_economico": "R$ 130 bi",
+    "valor_economico": null,
     "ref_id": "maria-araujo",
     "ref_tipo": "personalidade",
     "tags": [
@@ -116,7 +316,7 @@
     "links": []
   },
   {
-    "id": "br-mg-contagem-2024-transp",
+    "id": "brasil-minasgerais-contagem-2024-transporte",
     "ano": 2024,
     "origem": "Nacional",
     "nivel": "Municipal",
@@ -127,7 +327,7 @@
     "cooperativas": 6,
     "cooperados": 1450,
     "empregos": 180,
-    "valor_economico": "R$ 45 mi",
+    "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
     "tags": [
@@ -146,7 +346,207 @@
     ]
   },
   {
-    "id": "br-2023-geral",
+    "id": "brasil-2024-agropecuario",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1172,
+    "cooperados": 1091560,
+    "empregos": 268279,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-consumo",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 211,
+    "cooperados": 2564460,
+    "empregos": 16085,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-credito",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 689,
+    "cooperados": 20123965,
+    "empregos": 121825,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-infraestrutura",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 264,
+    "cooperados": 1451793,
+    "empregos": 6963,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-saude",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 699,
+    "cooperados": 270430,
+    "empregos": 150841,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-trabalhoebensdeconsumo",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 597,
+    "cooperados": 187235,
+    "empregos": 8268,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-transporte",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 752,
+    "cooperados": 114878,
+    "empregos": 5773,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2024-geral",
+    "ano": 2024,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4384,
+    "cooperados": 25804321,
+    "empregos": 578034,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-geral",
     "ano": 2023,
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -157,7 +557,7 @@
     "cooperativas": 4630,
     "cooperados": 20500000,
     "empregos": 524000,
-    "valor_economico": "R$ 690 bi",
+    "valor_economico": null,
     "ref_id": "",
     "ref_tipo": "",
     "tags": [
@@ -175,7 +575,7 @@
     ]
   },
   {
-    "id": "de-2023-geral",
+    "id": "alemanha-2023-geral",
     "ano": 2023,
     "origem": "Internacional",
     "nivel": "Nacional",
@@ -186,7 +586,7 @@
     "cooperativas": 5050,
     "cooperados": 22500000,
     "empregos": 920000,
-    "valor_economico": "€ 850 bi",
+    "valor_economico": null,
     "ref_id": "friedrich-raiffeisen",
     "ref_tipo": "personalidade",
     "tags": [
@@ -198,5 +598,1005 @@
     "fonte": "Relatório DGV",
     "link": "",
     "links": []
+  },
+  {
+    "id": "brasil-2023-agropecuario",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1179,
+    "cooperados": 1047068,
+    "empregos": 257137,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-consumo",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 221,
+    "cooperados": 2347402,
+    "empregos": 16006,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-credito",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 700,
+    "cooperados": 17946703,
+    "empregos": 111911,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-infraestrutura",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 276,
+    "cooperados": 1560375,
+    "empregos": 7009,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-saude",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 702,
+    "cooperados": 254505,
+    "empregos": 139772,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-trabalhoebensdeconsumo",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 641,
+    "cooperados": 193813,
+    "empregos": 12964,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-transporte",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 790,
+    "cooperados": 102839,
+    "empregos": 5812,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2023-geral",
+    "ano": 2023,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4509,
+    "cooperados": 23452705,
+    "empregos": 550611,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-agropecuario",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1185,
+    "cooperados": 1011023,
+    "empregos": 249584,
+    "valor_economico": null,
+    "ref_id": "friedrich-raiffeisen",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-consumo",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 235,
+    "cooperados": 2149713,
+    "empregos": 14558,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-credito",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 728,
+    "cooperados": 15501804,
+    "empregos": 99331,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-infraestrutura",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 284,
+    "cooperados": 1293467,
+    "empregos": 7061,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-saude",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 720,
+    "cooperados": 253667,
+    "empregos": 135633,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-trabalhoebensdeconsumo",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 655,
+    "cooperados": 182783,
+    "empregos": 12407,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-transporte",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 886,
+    "cooperados": 96697,
+    "empregos": 5748,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2022-geral",
+    "ano": 2022,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4693,
+    "cooperados": 20489154,
+    "empregos": 524322,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-agropecuario",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1170,
+    "cooperados": 1024605,
+    "empregos": 239628,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-consumo",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 247,
+    "cooperados": 2053622,
+    "empregos": 14896,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-credito",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 763,
+    "cooperados": 13956975,
+    "empregos": 89381,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-infraestrutura",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 263,
+    "cooperados": 1241109,
+    "empregos": 7026,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-saude",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 767,
+    "cooperados": 318704,
+    "empregos": 126796,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-trabalhoebensdeconsumo",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 688,
+    "cooperados": 192874,
+    "empregos": 9750,
+    "valor_economico": null,
+    "ref_id": "friedrich-raiffeisen",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-transporte",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 982,
+    "cooperados": 99279,
+    "empregos": 5800,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2021-geral",
+    "ano": 2021,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4880,
+    "cooperados": 18887168,
+    "empregos": 493277,
+    "valor_economico": null,
+    "ref_id": "friedrich-raiffeisen",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-agropecuario",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1173,
+    "cooperados": 1001341,
+    "empregos": 223477,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-consumo",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 247,
+    "cooperados": 2108756,
+    "empregos": 14427,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-credito",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 775,
+    "cooperados": 11966563,
+    "empregos": 79121,
+    "valor_economico": null,
+    "ref_id": "theodor-amstad",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-infraestrutura",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 246,
+    "cooperados": 1481493,
+    "empregos": 7336,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-saude",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 758,
+    "cooperados": 292971,
+    "empregos": 116559,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-trabalhoebensdeconsumo",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 685,
+    "cooperados": 180074,
+    "empregos": 8714,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-transporte",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 984,
+    "cooperados": 89857,
+    "empregos": 5461,
+    "valor_economico": null,
+    "ref_id": "maria-araujo",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2020-geral",
+    "ano": 2020,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 4868,
+    "cooperados": 17121055,
+    "empregos": 455095,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-agropecuario",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Agropecuário",
+    "cooperativas": 1223,
+    "cooperados": 992111,
+    "empregos": 207201,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-consumo",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Consumo",
+    "cooperativas": 263,
+    "cooperados": 2025545,
+    "empregos": 14841,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-credito",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Crédito",
+    "cooperativas": 827,
+    "cooperados": 10786317,
+    "empregos": 71740,
+    "valor_economico": null,
+    "ref_id": "maria-araujo",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-infraestrutura",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Infraestrutura",
+    "cooperativas": 265,
+    "cooperados": 1138786,
+    "empregos": 7315,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-saude",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Saúde",
+    "cooperativas": 783,
+    "cooperados": 275915,
+    "empregos": 108189,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-trabalhoebensdeconsumo",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Trabalho e Bens de Consumo",
+    "cooperativas": 860,
+    "cooperados": 221134,
+    "empregos": 9759,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-transporte",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Transporte",
+    "cooperativas": 1093,
+    "cooperados": 99568,
+    "empregos": 8531,
+    "valor_economico": null,
+    "ref_id": "theodor-amstad",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
+  },
+  {
+    "id": "brasil-2019-geral",
+    "ano": 2019,
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "ramo": "Geral",
+    "cooperativas": 5314,
+    "cooperados": 15539376,
+    "empregos": 427576,
+    "valor_economico": null,
+    "ref_id": "",
+    "ref_tipo": "",
+    "tags": [],
+    "fonte": "Anuário OCB 2026",
+    "link": "https://somoscooperativismo.coop.br/anuariocoop",
+    "links": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ]
   }
 ]
