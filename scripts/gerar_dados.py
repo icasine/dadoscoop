@@ -23,7 +23,7 @@ def sim(v):
         "s",
         "x",
         "true",
-        "1",
+        "1"
     )
 
 
@@ -39,47 +39,33 @@ def normalizar(v):
 
 def eh_credito(v):
     ramo = normalizar(v)
-    return ramo in (
-        "credito",
-        "cooperativas de credito",
-    )
+    return "credito" in ramo
 
 
 def parse_num(v):
-    if v is None:
-        return 0
-
-    valor = str(v).strip()
-
-    if not valor:
+    if not v:
         return 0
 
     try:
-        # Formato brasileiro: 1.234,56
-        if "," in valor:
-            clean = valor.replace(".", "").replace(",", ".")
-        else:
-            # Para quantidades inteiras, mantém 1.234 como 1234
-            clean = valor.replace(".", "")
-
-        numero = float(clean)
-
-        if numero.is_integer():
-            return int(numero)
-
-        return numero
-
-    except (ValueError, TypeError):
+        clean = str(v).replace(".", "").replace(",", ".")
+        return float(clean) if "." in clean else int(clean)
+    except:
         return 0
 
 
 with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
-    texto_csv = r.read().decode("utf-8-sig")
+    texto_csv = r.read().decode("utf-8")
 
 
 saida = []
 
 leitor = csv.DictReader(io.StringIO(texto_csv))
+
+# Verifica se a nova coluna realmente existe na planilha
+campos = [str(c or "").strip().lower() for c in (leitor.fieldnames or [])]
+tem_coluna_publicar = "publicar" in campos
+tem_coluna_pac = "pac" in campos
+
 
 for n, linha in enumerate(leitor, start=2):
 
@@ -99,20 +85,19 @@ for n, linha in enumerate(leitor, start=2):
     # ---------------------------------------------------------
     # PUBLICAR
     # ---------------------------------------------------------
-    # Somente registros marcados para publicação entram
-    # no dados.json.
+    # Se a coluna publicar existir:
+    # somente registros marcados como Sim são publicados.
+    #
+    # Se a coluna ainda não existir:
+    # mantém o comportamento antigo e publica todos.
     # ---------------------------------------------------------
-    publicar_val = l.get("publicar", "")
 
-    if not sim(publicar_val):
-        continue
+    if tem_coluna_publicar:
+        if not sim(l.get("publicar")):
+            continue
 
     ramo = l.get("ramo", "") or None
-    credito = eh_credito(ramo)
 
-    # ---------------------------------------------------------
-    # REGISTRO BASE
-    # ---------------------------------------------------------
     item = {
         "ano": int(parse_num(ano_val)),
         "geral": sim(l.get("geral")),
@@ -130,7 +115,9 @@ for n, linha in enumerate(leitor, start=2):
         "empregos": parse_num(
             l.get("empregos")
         ),
-        "tags": lista(l.get("tags")),
+        "tags": lista(
+            l.get("tags")
+        ),
         "fonte": l.get("fonte", ""),
         "link": l.get("link", "")
     }
@@ -138,16 +125,16 @@ for n, linha in enumerate(leitor, start=2):
     # ---------------------------------------------------------
     # PAC
     # ---------------------------------------------------------
-    # Só o ramo Crédito recebe o campo pac.
-    # Para outros ramos, o campo nem sequer é gravado.
+    # O PAC só será gravado para registros do ramo Crédito.
+    # O nome do campo no JSON será exatamente "pac".
     # ---------------------------------------------------------
-    if credito:
+
+    if eh_credito(ramo) and tem_coluna_pac:
+
         pac_val = l.get("pac", "").strip()
 
         if pac_val:
             item["pac"] = parse_num(pac_val)
-        else:
-            item["pac"] = None
 
     saida.append(item)
 
