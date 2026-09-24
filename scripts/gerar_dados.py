@@ -61,7 +61,7 @@ saida = []
 
 leitor = csv.DictReader(io.StringIO(texto_csv))
 
-# Verifica se a nova coluna realmente existe na planilha
+# Verifica se colunas condicionais existem na planilha
 campos = [str(c or "").strip().lower() for c in (leitor.fieldnames or [])]
 tem_coluna_publicar = "publicar" in campos
 tem_coluna_pac = "pac" in campos
@@ -85,13 +85,6 @@ for n, linha in enumerate(leitor, start=2):
     # ---------------------------------------------------------
     # PUBLICAR
     # ---------------------------------------------------------
-    # Se a coluna publicar existir:
-    # somente registros marcados como Sim são publicados.
-    #
-    # Se a coluna ainda não existir:
-    # mantém o comportamento antigo e publica todos.
-    # ---------------------------------------------------------
-
     if tem_coluna_publicar:
         if not sim(l.get("publicar")):
             continue
@@ -119,16 +112,13 @@ for n, linha in enumerate(leitor, start=2):
             l.get("tags")
         ),
         "fonte": l.get("fonte", ""),
-        "link": l.get("link", "")
+        "link": l.get("link", ""),
+        "note": l.get("note", "")
     }
 
     # ---------------------------------------------------------
     # PAC
     # ---------------------------------------------------------
-    # O PAC só será gravado para registros do ramo Crédito.
-    # O nome do campo no JSON será exatamente "pac".
-    # ---------------------------------------------------------
-
     if eh_credito(ramo) and tem_coluna_pac:
 
         pac_val = l.get("pac", "").strip()
