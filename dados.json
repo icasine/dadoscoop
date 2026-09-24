@@ -1,170 +1,5 @@
 [
   {
-    "ano": 1935,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 456,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1936/assoc1936aeb_05.pdf"
-  },
-  {
-    "ano": 1935,
-    "geral": false,
-    "ramo": "Crédito",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 123,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1936/assoc1936aeb_05.pdf"
-  },
-  {
-    "ano": 1936,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 651,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1937/assoc1937g_aeb_30.pdf"
-  },
-  {
-    "ano": 1936,
-    "geral": false,
-    "ramo": "Crédito",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 258,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1936,
-    "geral": false,
-    "ramo": "Consumo",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 97,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1936,
-    "geral": false,
-    "ramo": "Agropecuário",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 252,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Agro + Produção)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1937,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 192,
-    "cooperados": 25728,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1937,
-    "geral": false,
-    "ramo": "Crédito",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 59,
-    "cooperados": 17732,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1937,
-    "geral": false,
-    "ramo": "Consumo",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 14,
-    "cooperados": 1613,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1937,
-    "geral": false,
-    "ramo": "Agropecuário",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 77,
-    "cooperados": 4426,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Agro + Produção)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
-    "ano": 1937,
-    "geral": false,
-    "ramo": "Seguros",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 7,
-    "cooperados": 779,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
-  },
-  {
     "ano": 1945,
     "geral": false,
     "ramo": "Geral",
@@ -176,7 +11,7 @@
     "cooperados": 323169,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -191,7 +26,7 @@
     "cooperados": 122320,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -206,7 +41,7 @@
     "cooperados": 105543,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -221,7 +56,7 @@
     "cooperados": 73333,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -236,7 +71,7 @@
     "cooperados": 598157,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -251,7 +86,7 @@
     "cooperados": 299889,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -266,7 +101,7 @@
     "cooperados": 145142,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -281,7 +116,7 @@
     "cooperados": 126579,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -296,7 +131,7 @@
     "cooperados": 723662,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -311,7 +146,7 @@
     "cooperados": 333160,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -326,7 +161,7 @@
     "cooperados": 180320,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -341,23 +176,8 @@
     "cooperados": 173307,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
-  },
-  {
-    "ano": 1957,
-    "geral": false,
-    "ramo": "Geral",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1957,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Registradas)",
-    "link": "https://seculoxx.ibge.gov.br/economicas/118-seculoxx/estatisticas-populacionais-sociais-politicas-e-culturais/busca/597-associativismo.html"
   },
   {
     "ano": 1960,
@@ -371,7 +191,7 @@
     "cooperados": 1873150,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -386,7 +206,7 @@
     "cooperados": 919065,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -401,7 +221,7 @@
     "cooperados": 406486,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -416,7 +236,7 @@
     "cooperados": 503940,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -431,7 +251,7 @@
     "cooperados": 2879461,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -446,7 +266,7 @@
     "cooperados": 1539444,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -461,7 +281,7 @@
     "cooperados": 646269,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -476,7 +296,7 @@
     "cooperados": 630316,
     "empregos": 0,
     "tags": [],
-    "fonte": "Pinho, Diva Benevides. Que é Cooperativismo. São Paulo Editora, 1966.",
+    "fonte": "Pinho, 1966.",
     "link": ""
   },
   {
@@ -716,7 +536,7 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -731,7 +551,7 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -776,7 +596,7 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006. (Aponta 4316)",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -821,7 +641,7 @@
     "cooperados": 3876744,
     "empregos": 151129,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -866,7 +686,7 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -911,7 +731,7 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -956,7 +776,7 @@
     "cooperados": 4649000,
     "empregos": 169393,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -1001,7 +821,7 @@
     "cooperados": 4779000,
     "empregos": 175412,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -1016,7 +836,7 @@
     "cooperados": 5259000,
     "empregos": 171395,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -1061,7 +881,7 @@
     "cooperados": 5763000,
     "empregos": 182026,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -1076,7 +896,7 @@
     "cooperados": 6159658,
     "empregos": 195100,
     "tags": [],
-    "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
+    "fonte": "Ninaut, 2006.",
     "link": ""
   },
   {
@@ -1466,8 +1286,9 @@
     "cooperados": 5487098,
     "empregos": 38132,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/"
+    "fonte": "Anuário OCEMG + BCB",
+    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+    "pac": 3723
   },
   {
     "ano": 2013,
@@ -1511,9 +1332,9 @@
     "cooperados": 5808064,
     "empregos": 40359,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 5092
+    "fonte": "Anuário OCEMG + BCB",
+    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+    "pac": 3947
   },
   {
     "ano": 2014,
@@ -1557,9 +1378,9 @@
     "cooperados": 6978511,
     "empregos": 74146,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 5342
+    "fonte": "Anuário OCEMG + BCB",
+    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+    "pac": 4213
   },
   {
     "ano": 2015,
@@ -1603,9 +1424,9 @@
     "cooperados": 7476308,
     "empregos": 50268,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 5547
+    "fonte": "Anuário OCEMG + BCB",
+    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+    "pac": 4470
   },
   {
     "ano": 2016,
@@ -1619,9 +1440,9 @@
     "cooperados": 0,
     "empregos": 0,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 5727
+    "fonte": "Anuário OCEMG + BCB",
+    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+    "pac": 4687
   },
   {
     "ano": 2017,
@@ -1665,9 +1486,9 @@
     "cooperados": 8941967,
     "empregos": 60237,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 5949
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 4935
   },
   {
     "ano": 2018,
@@ -1711,9 +1532,9 @@
     "cooperados": 9840977,
     "empregos": 67267,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "pac": 6340
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 5390
   },
   {
     "ano": 2019,
@@ -1772,9 +1593,9 @@
       "inclusao",
       "aula-02"
     ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "pac": 6948
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 6050
   },
   {
     "ano": 2019,
@@ -1913,9 +1734,9 @@
     "cooperados": 11966563,
     "empregos": 79121,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "pac": 7348
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 6483
   },
   {
     "ano": 2020,
@@ -2034,9 +1855,9 @@
     "cooperados": 13956975,
     "empregos": 89381,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "pac": 8088
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 7252
   },
   {
     "ano": 2021,
@@ -2155,8 +1976,9 @@
     "cooperados": 15501804,
     "empregos": 99331,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop"
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 8333
   },
   {
     "ano": 2022,
@@ -2275,8 +2097,9 @@
     "cooperados": 17946703,
     "empregos": 111911,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop"
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 9048
   },
   {
     "ano": 2023,
@@ -2395,8 +2218,9 @@
     "cooperados": 20123965,
     "empregos": 121825,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop"
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 9472
   },
   {
     "ano": 2024,
@@ -2515,8 +2339,9 @@
     "cooperados": 22956981,
     "empregos": 134395,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop"
+    "fonte": "Anuário OCB 2026 + BCB",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+    "pac": 9822
   },
   {
     "ano": 2025,
